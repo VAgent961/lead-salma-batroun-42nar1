@@ -1,0 +1,29 @@
+{
+  "siteName": "Salma Batroun",
+  "description": "Authentic Lebanese Cuisine by the Sea",
+  "lang": "en",
+  "colors": {
+    "primary": "#0F4C5C",
+    "secondary": "#D4A373",
+    "accent": "#D4A373",
+    "background": "#FDFBF7",
+    "surface": "#FFFFFF",
+    "ink": "#2D3436",
+    "muted": "#636E72",
+    "dark": "#0A323D"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
